@@ -4,7 +4,7 @@ A Pari/GP Package for Siegel Modular forms
 
 ### Currently available
 
-1. Fourier expansion of holomorphic Siegel modualr forms of degree 2 for Sp(2,Z) 
+1. Fourier expansion of holomorphic Siegel modular forms of degree 2 for $$Sp(2,\mathbb{Z})$$ 
 
 ### Underway 
 
