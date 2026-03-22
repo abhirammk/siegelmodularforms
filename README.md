@@ -1,10 +1,10 @@
 # siegelmodularforms
-**A Pari/GP Package for computing Siegel Modular forms for \(Sp(g,\mathbb{Z}\) **
+**A Pari/GP Package for computing Siegel Modular forms for $$Sp(g,\mathbb{Z})$$**
 
 
 ### Currently available
 
-1. Fourier expansion of holomorphic Siegel modular forms of degree \(g = 2\)
+1. Fourier expansion of holomorphic Siegel modular forms of degree $$g = 2$$
 
 ### Underway 
 
