@@ -17,4 +17,7 @@ A Pari/GP Package for Siegel Modular forms
 ### Planned
  
 1. Higher degree
+2. Period polynomials
+3. Non-holomorphic Siegel modular forms of degree 2
+
 
